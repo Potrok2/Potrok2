@@ -1,7 +1,8 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/IRN1xXP.gif" width="900" alt="Potrok Banner"/>
+  <img src="https://i.imgur.com/2p3F3Wz.gif" width="900" alt="Banner"/>
 </div>
+
 
 ---
 
