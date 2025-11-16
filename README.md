@@ -1,4 +1,5 @@
-<!-- Banner -
+<!-- Banner -->
+<div align="center">
 
 
 ---
